@@ -2,5 +2,7 @@
 import Header from "./components/Header.vue";
 </script>
 <template>
-	<Header />
+	<div>
+		<Header />
+	</div>
 </template>
